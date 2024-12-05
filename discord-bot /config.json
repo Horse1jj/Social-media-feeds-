@@ -1,1 +1,12 @@
+{
+  "botToken": "YOUR_DISCORD_BOT_TOKEN",
+  "discordChannelID": "DISCORD_CHANNEL_ID_FOR_NOTIFICATIONS",
+  "youtubeApiKey": "YOUR_YOUTUBE_API_KEY",
+  "twitchClientId": "YOUR_TWITCH_CLIENT_ID",
+  "twitchAccessToken": "YOUR_TWITCH_ACCESS_TOKEN",
+  "tiktokUsers": ["example_user1", "example_user2"],
+  "youtubeChannels": ["UC_x5XG1OV2P6uZZ5FSM9Ttw", "UCVHFbqXqoYvEWM1Ddxl0QDg"],
+  "twitchUsers": ["example_user1", "example_user2"],
+  "customMessage": "🎉 Check this out! New content is live!"
+}
 
